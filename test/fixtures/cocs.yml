@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Name: MyString
+  Roll: MyString
+  Marks: 1
+  Total: 1
+  Percentage: 9.99
+  Branch: MyString
+
+two:
+  Name: MyString
+  Roll: MyString
+  Marks: 1
+  Total: 1
+  Percentage: 9.99
+  Branch: MyString
